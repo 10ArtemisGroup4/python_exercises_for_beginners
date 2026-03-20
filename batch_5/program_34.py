@@ -1,0 +1,3 @@
+#convert to all lowercase
+full_name = input("Enter your full name: ")
+print(full_name.lower())
