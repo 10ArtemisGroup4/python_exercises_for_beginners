@@ -1,3 +1,4 @@
+#display only the first entry
 numbers = []
 
 for i in range(10):
